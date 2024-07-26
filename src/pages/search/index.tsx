@@ -17,21 +17,21 @@ export default function Index() {
     return (
       <View className="searh-page">
         <View>
-          <View className="company ">公司名称</View>
+          <View className="company ">公司名称:</View>
           <View className="srarch mt-100">
-            <View className="title">车型快查</View>
+            <View className="title">车型快查:</View>
             <View className="input">
               <Input></Input>
             </View>
           </View>
           <View className="srarch">
-            <View className="title">颜色名称</View>
+            <View className="title">颜色名称:</View>
             <View className="input">
               <Input></Input>
             </View>
           </View>
           <View className="srarch">
-            <View className="title">原厂色号</View>
+            <View className="title">原厂色号:</View>
             <View className="input">
               <Input></Input>
             </View>
