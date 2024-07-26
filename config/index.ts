@@ -58,7 +58,7 @@ export default defineConfig(async (merge, { command, mode }) => {
       }
     },
     h5: {
-      publicPath: '/',
+      publicPath: '/ingredient/',
       staticDirectory: 'static',
       output: {
         filename: 'js/[name].[hash:8].js',
