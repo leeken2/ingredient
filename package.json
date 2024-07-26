@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "description": "搜索配料",
-  "homepage": "https://github.com/chen-mu/ingredient",
+  "homepage": "https://chen-mu.github.io/ingredient/",
   "templateInfo": {
     "name": "default",
     "typescript": true,
